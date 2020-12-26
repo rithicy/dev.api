@@ -1,0 +1,59 @@
+{
+  "message": "sucessful loaded",
+  "data": {
+    most_view: [
+      {
+        "product": "Driven Backpack",
+        "price": 25.5,
+        "view": 1024
+      },
+      {
+        "product": "Push It Messenger Bag",
+        "price": 33,
+        "view": 762
+      },
+      {
+        "product": "Overnight Duffle",
+        "price": 52,
+        "view": 502
+      },    
+      {
+        "product": "Breath-Easy Tank",
+        "price": 45,
+        "view": 497
+      },     
+      {
+        "product": "Women Bag",
+        "price": 34,
+        "view": 325
+      }
+    ],
+    best_sell: [
+      {
+        "product": "Driven Backpack",
+        "price": 25.5,
+        "view": 1024
+      },
+      {
+        "product": "Push It Messenger Bag",
+        "price": 33,
+        "view": 762
+      },
+      {
+        "product": "Overnight Duffle",
+        "price": 52,
+        "view": 502
+      },    
+      {
+        "product": "Breath-Easy Tank",
+        "price": 45,
+        "view": 497
+      },     
+      {
+        "product": "Women Bag",
+        "price": 34,
+        "view": 325
+      }
+    ]
+  }
+}
