@@ -1,0 +1,11 @@
+{
+  "message": "sucessful loaded",
+  "data": {
+      "revenue": 512678,
+      "tax": 250,
+      "shipping": 12800,
+      "quantity": 80,
+      "lifetime_sale": 6102,
+      "average_order": 3051
+    }
+}
