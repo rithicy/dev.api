@@ -1,0 +1,7 @@
+{
+  "message": "success",
+  "data": [
+    {"id": 1, "thumbnail": "https://myfashion2017.s3.amazonaws.com/thum/Thefashion_20180930072840-159508.JPG", "name": "Tide brand laser small love iPhone7plus", "type": "Bundle Product", "price": 10, "quantity": 0,  "status": 0},
+    {"id": 2, "thumbnail": "https://myfashion2017.s3.amazonaws.com/thum/Thefashion_20190804145741-472815.JPG", "name": "Nightclub sexy fashion Korean wome", "type": "Bundle Product", "price": 20, "quantity": 1,  "status": 1}
+  ]
+}
