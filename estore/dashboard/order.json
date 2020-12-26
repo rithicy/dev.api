@@ -1,0 +1,10 @@
+{
+  "message" : "sucessful loaded",
+  "data": [
+    { "customer": "Robert Lee", "items": 1, "total": 59 },
+    { "customer": "Penner Park", "items": 2, "total": 22 },
+    { "customer": "Rachel David", "items": 1, "total": 57 },
+    { "customer": "Sok Monineath", "items": 1, "total": 34 },
+    { "customer": "Reach KimSou", "items": 3, "total": 99 }
+  ]
+}
