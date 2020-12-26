@@ -1,0 +1,7 @@
+{
+  "message": "sucessfully loaded",
+  "data" : [
+    { "customer": "Meng Siang", "order": 2, "average": 16.5, "total": 33 },
+    { "customer": "LeakHena Chan", "order": "1", "average": "8.2", "total": "8.2" }
+  ]
+}
