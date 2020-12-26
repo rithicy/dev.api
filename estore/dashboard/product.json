@@ -1,7 +1,7 @@
 {
   "message": "sucessful loaded",
   "data": {
-    most_view: [
+    "most_view": [
       {
         "product": "Driven Backpack",
         "price": 25.5,
@@ -28,7 +28,7 @@
         "view": 325
       }
     ],
-    best_sell: [
+    "best_sell": [
       {
         "product": "Driven Backpack",
         "price": 25.5,
